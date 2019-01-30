@@ -1,14 +1,8 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Robert 
+Role: CEO XRE Smart Real Estate
 
-## Team Member 1
+See website for complete team 
 
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+XRESmartRealEstate.com
